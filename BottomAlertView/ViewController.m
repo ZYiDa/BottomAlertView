@@ -2,8 +2,8 @@
 //  ViewController.m
 //  BottomAlertView
 //
-//  Created by 立元通信 on 2018/5/29.
-//  Copyright © 2018年 zcz. All rights reserved.
+//  Created by  on 2018/5/29.
+//  Copyright © 2018年 . All rights reserved.
 //
 
 #import "ViewController.h"

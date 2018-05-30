@@ -2,7 +2,7 @@
 //  UIColor+Hexadecimal.h
 //  
 //
-//  Created by 你好，色彩 on 16/9/8.
+//  Created by  on 16/9/8.
 //  Copyright © 2016年 . All rights reserved.
 //
 
